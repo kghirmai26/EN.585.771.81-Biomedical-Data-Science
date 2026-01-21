@@ -1,4 +1,4 @@
-Section 1
-Sub section A
+# Section 1
+## Sub Section A
 **Bold Text** 
 *italicized text*
